@@ -47,9 +47,3 @@ Before you get started, the following needs to be installed:
 - Added Pagination for inventories.
 - Added Serializers for data beautification.
 - Added RSpec Test Cases.
-
-## Future Work
-- We can add proper Authentication Process using Devise gem.
-- We can add overcommit to make sure code quality or other stuff.
-- We can add Rubocop for better code quality.
-
