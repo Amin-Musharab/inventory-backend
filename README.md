@@ -39,7 +39,7 @@ Before you get started, the following needs to be installed:
 3.  Run server:
 
     ```
-    rails server or rails s
+    rails s -p 3001
     ```
 
 ## Notes
